@@ -18,7 +18,7 @@ export default [
         "backdrop_path": "/nmV9MdbzST4xv8WMHwhVgxkHHjM.jpg",
         "adult": false,
         "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
-        "release_date": "2019-03-23"
+        "release_date": "23-03-2019"
     },
     {
         "vote_count": 5081,
@@ -38,7 +38,7 @@ export default [
         "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
         "adult": false,
         "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-        "release_date": "2019-04-24"
+        "release_date": "24-04-2019"
     },
     {
         "vote_count": 4803,
@@ -58,7 +58,7 @@ export default [
         "backdrop_path": "/w2PMyoyLU22YvrGK3smVM9fW1jj.jpg",
         "adult": false,
         "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
-        "release_date": "2019-03-06"
+        "release_date": "06-03-2019"
     },
     {
         "vote_count": 300,
@@ -81,7 +81,7 @@ export default [
         "backdrop_path": "/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
         "adult": false,
         "overview": "In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
-        "release_date": "2019-05-03"
+        "release_date": "03-05-2019"
     },
     {
         "vote_count": 15,
@@ -101,7 +101,7 @@ export default [
         "backdrop_path": "/uufTqD2CSn1NqL3cXEl4Vp3bCav.jpg",
         "adult": false,
         "overview": "In the world of Sougo Tokiwa and Sento Kiryu, their \"companions\" are losing their memories one after the other as they're replaced by other people. The Super Time Jacker, Tid , appears before them. He orders his powerful underlings, Another Double and Another Den-O, to pursue a young boy called Shingo. While fighting to protect Shingo, Sougo meets Ataru, a young man who loves Riders, but Ataru says that Kamen Riders aren't real. What is the meaning of those words? While the mystery deepens, the true enemy that Sougo and Sento must defeat appears in the Kuriogatake mountain...",
-        "release_date": "2018-12-22"
+        "release_date": "22-12-2018"
     },
     {
         "vote_count": 18,
@@ -119,7 +119,7 @@ export default [
         "backdrop_path": "/8OamoIWfC9zmhwhh1PPaBcDoQaH.jpg",
         "adult": false,
         "overview": "The story is based on Robert Louis Stevenson's Treasure Island novel.",
-        "release_date": "2018-03-03"
+        "release_date": "03-03-2018"
     },
     {
         "vote_count": 355,
@@ -139,7 +139,7 @@ export default [
         "backdrop_path": "/5BkSkNtfrnTuKOtTaZhl8avn4wU.jpg",
         "adult": false,
         "overview": "Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.",
-        "release_date": "2019-04-10"
+        "release_date": "10-04-2019"
     },
     {
         "vote_count": 22,
@@ -158,7 +158,7 @@ export default [
         "backdrop_path": "/yY7kr7Rgvo8W0Kr3U0bMV8Zq1qM.jpg",
         "adult": false,
         "overview": "After an earthquake destroys Xiang Qin's house, she and her father move in with the family of her father's college buddy. To her surprise, her new kind and amicable aunt and uncle are the parents of her cold and distant schoolmate, Jiang Zhi Shu, a genius with an IQ of 200 whom not too long ago rejected her when she confessed her feelings for him. Will the close proximity give her a second chance to win Zhi Shu's heart? Or will her love for him end under his cold words?",
-        "release_date": "2019-02-14"
+        "release_date": "14-02-2019"
     },
     {
         "vote_count": 478,
@@ -180,7 +180,7 @@ export default [
         "backdrop_path": "/aiM3XxYE2JvW1vJ4AC6cI1RjAoT.jpg",
         "adult": false,
         "overview": "Nels Coxman, a snowplow driver recently awarded the title of citizen of the year, triggers a series of violence and misunderstandings between two rival gangs after he starts avenging his son's death.",
-        "release_date": "2019-02-07"
+        "release_date": "07-02-2019"
     },
     {
         "vote_count": 2757,
@@ -202,7 +202,7 @@ export default [
         "backdrop_path": "/lvjscO8wmpEbIfOEZi92Je8Ktlg.jpg",
         "adult": false,
         "overview": "In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
-        "release_date": "2019-01-16"
+        "release_date": "16-01-2019"
     },
     {
         "vote_count": 863,
@@ -221,7 +221,7 @@ export default [
         "backdrop_path": "/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
         "adult": false,
         "overview": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.",
-        "release_date": "2019-04-11"
+        "release_date": "11-04-2019"
     },
     {
         "vote_count": 13458,
@@ -241,7 +241,7 @@ export default [
         "backdrop_path": "/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
         "adult": false,
         "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-        "release_date": "2018-04-25"
+        "release_date": "25-04-2018"
     },
     {
         "vote_count": 50,
@@ -260,7 +260,7 @@ export default [
         "backdrop_path": "/tmM78qRhpg0i2Cky8Q8hXKASOXY.jpg",
         "adult": false,
         "overview": "A woman receives the chance to relive the life of her younger self, at a point in her life when the pressures of adulthood become too much for her to bear.",
-        "release_date": "2019-04-04"
+        "release_date": "04-04-2019"
     },
     {
         "vote_count": 238,
@@ -280,7 +280,7 @@ export default [
         "backdrop_path": "/wbAQKi2E5cO0Utk5KDk9yX3kuOu.jpg",
         "adult": false,
         "overview": "Magically able to hear what men are thinking, a sports agent uses her newfound ability to turn the tables on her overbearing male colleagues.",
-        "release_date": "2019-02-08"
+        "release_date": "08-02-2019"
     },
     {
         "vote_count": 449,
@@ -300,7 +300,7 @@ export default [
         "backdrop_path": "/dpJq6trUDOutSPSLrFdROPmzaVn.jpg",
         "adult": false,
         "overview": "Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie 'Pet Sematary' located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.",
-        "release_date": "2019-04-04"
+        "release_date": "04-04-2019"
     },
     {
         "vote_count": 1759,
@@ -320,7 +320,7 @@ export default [
         "backdrop_path": "/lFwykSz3Ykj1Q3JXJURnGUTNf1o.jpg",
         "adult": false,
         "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
-        "release_date": "2019-01-03"
+        "release_date": "03-01-2019"
     },
     {
         "vote_count": 4,
@@ -342,7 +342,7 @@ export default [
         "backdrop_path": "/wf6VDSi4aFCZfuD8sX8JAKLfJ5m.jpg",
         "adult": false,
         "overview": "23rd Detective Conan Movie.",
-        "release_date": "2019-04-12"
+        "release_date": "12-04-2019"
     },
     {
         "vote_count": 12031,
@@ -363,7 +363,7 @@ export default [
         "backdrop_path": "/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg",
         "adult": false,
         "overview": "King T'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
-        "release_date": "2018-02-13"
+        "release_date": "13-02-2018"
     },
     {
         "vote_count": 19329,
@@ -383,7 +383,7 @@ export default [
         "backdrop_path": "/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg",
         "adult": false,
         "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-        "release_date": "2012-04-25"
+        "release_date": "25-04-2012"
     },
     {
         "vote_count": 7386,
@@ -404,6 +404,6 @@ export default [
         "backdrop_path": "/a1MlbLBk5Sy6YvMbSuKfwGlDVlb.jpg",
         "adult": false,
         "overview": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
-        "release_date": "2006-06-08"
+        "release_date": "08-06-2006"
     }
 ]

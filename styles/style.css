@@ -1,6 +1,46 @@
-
-
-
-p {
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Lato', sans-serif;
+}
+
+#films {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 2%;
+}
+
+#films article{
+    margin: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 200px;
+}
+
+#films img{
+    height: 300px;
+    width: 200px;
+    border-radius: 10%;
+    box-shadow: 0 20px 50px 0 rgb(141, 140, 140);
+    margin-block-end: 10%;
+}
+
+#films p{
+    margin-bottom: 5%;
+}
+
+#films .title{
+    color: rgb(0, 0, 0);
+    width: 50%;
+}
+
+#films .vote{
+    width: 50%;
+    text-align: right;
+}
+
+#films .date{
+    color: rgb(150, 99, 99);
 }
