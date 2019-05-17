@@ -44,3 +44,34 @@
 #films .date{
     color: rgb(150, 99, 99);
 }
+
+input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+  }
+  
+button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: rgb(0, 0, 0);
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+  
+button:hover {
+    background: #fcf826;
+  }
+  
+::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
