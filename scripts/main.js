@@ -3,30 +3,32 @@ import films from './films.js';
 let imgPoster = 'http://image.tmdb.org/t/p/w185/'
 
 window.addEventListener('load', () => {
-    let divFilms = document.querySelector('#films');
-    
-    films.forEach((film) => {
-        let divFilm = document.createElement('article');
-        divFilm.innerHTML = `
-        <img src="${imgPoster}${film.poster_path}" alt="${film.title}>
-        <p class="title">${film.title}</p>
-        <p class="vote">${film.vote_average}</p>
-        <p class="date">${film.release_date}</p>
-        `;
+    printFilms(films);
 
-        
-
-        divFilms.appendChild(divFilm);
-    });
-    
-    let buttonBuscar = document.querySelector('#btnBuscar');
-        buttonBuscar.addEventListener('click', buscar);
-        console.log(buttonBuscar);
-
-    function buscar() {
-        console.log('buscar');
-        let inputElement = document.querySelector('#inputBusqueda');
-        console.log(inputElement.value);
-    }
+    let buttonSearch = document.querySelector('#btnBuscar');
+    buttonSearch.addEventListener('click', buscar);
 });
 
+function printFilms(show){
+    let divFilms = document.querySelector('#films');
+        divFilms.innerHTML = '';
+
+    show.forEach((film) => {
+        let divFilm = document.createElement('article');
+        let {poster_path, title, vote_average, release_date, id} = film;
+        divFilm.innerHTML=`
+        <a href="/film.html?id=${id}"> <img src="${imgPoster}${poster_path}" alt="${title}></a>
+        <p class="title">${title}</p>
+        <p class="vote">${vote_average}</p>
+        <p class="date">${release_date}</p>
+        `;
+        divFilms.appendChild(divFilm);
+    });
+}  
+
+
+function buscar(){
+    let inputElement = document.querySelector('#inputBusqueda').value;
+    let searchElement = films.filter(film => film.title.toLowerCase().includes(inputElement.toLowerCase()));
+    printFilms(searchElement);
+}
