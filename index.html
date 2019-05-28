@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
     <script src="./scripts/main.js" type="module"></script>
     <link rel="stylesheet" href="./styles/style.css">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
@@ -12,12 +13,24 @@
 </head>
 
 <body>
-    <div id="busqueda">
+   <div id="busqueda">
         <input id="inputBusqueda" type="text" placeholder="Search a Film" name="search">
-        <button id="btnBuscar" type="submit"><i class="fa fa-search"></i>Search</button>
+        <button id="btnBuscar" type="submit">Search</button>
     </div>
-    <section id="films">
 
+    <div class="buttons">
+        <div id="titulo">
+            <button id="ordenar" type="submit">A-Z</button>
+        </div>
+        <div id="vote">
+            <button id="btnOrdenVote" type="submit">Popularity</button>
+        </div>
+        <div id="date">
+            <button id="btnOrdenarDate" type="submit">Date</button>
+        </div>
+    </div>
+
+    <section id="films">
 
     </section>
 

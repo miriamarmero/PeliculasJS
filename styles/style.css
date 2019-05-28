@@ -5,8 +5,16 @@
     font-family: 'Lato', sans-serif;
 }
 
-a{
-    color: rgb(253, 250, 71);
+header {
+    display: flex;
+    justify-content: center;
+    color: white;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
 }
 
 #films {
@@ -14,42 +22,41 @@ a{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin: 2%;
-    background-color: rgba(0, 0, 0, 0.801);
-    
+    margin: 5%;
+    background: black;
+    background-attachment: fixed;
 }
 
-#films article {
+article {
     margin: 3%;
     display: flex;
     flex-wrap: wrap;
     max-width: 200px;
 }
 
-#films img {
+img {
     height: 300px;
     width: 200px;
     border-radius: 10%;
     margin-block-end: 10%;
 }
 
-#films .title {
-    color: rgb(255, 255, 255);
+title {
     width: 50%;
     align-self: flex-end;
 }
 
-#films .vote {
-    width: 50%;
+.vote {
+    width: 100%;
     text-align: right;
 }
 
-#films .date {
+.date {
     color: rgb(255, 255, 255);
     width: 100%;
 }
 
-#busqueda{
+#busqueda {
     display: flex;
     justify-content: flex-end;
 }
@@ -86,10 +93,24 @@ button:hover {
     display: table;
 }
 
-#films img:hover{
+#films img:hover {
     -webkit-box-shadow: 0 20px 50px 0 white;
     -moz-box-shadow: 0 20px 50px 0 white;
     box-shadow: 0 20px 50px 0 white;
     transform: scale(1.1);
     transition: all .2s ease-in-out;
+}
+
+#films title{
+    cursor: pointer;
+}
+
+#films title:hover:after,
+#films title.fav:after {
+    content: 'f004';
+    color: rgb(255, 203, 0);
+}
+
+#films title.fav:hover:after {
+    content: 'f004';
 }
